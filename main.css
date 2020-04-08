@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "mono";
+    src: url("Fira-Code.ttf")
+}
+
+@media only screen and (min-width: 860px) {
+    body {
+      margin: auto;
+    }
+  }
+
+html {
+    font-family: mono;
+    color: white;
+    background: black;
+}
+
+strong {
+    font-weight: bolder;
+    color: yellow;
+}
+
+body {
+    max-width: 800px;
+}
+
+p {
+    text-align: justify;
+
+}
